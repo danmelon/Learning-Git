@@ -1,0 +1,4 @@
+To create new branch:
+	git branch [branch name]
+Then relocate to that branch by typing:
+	git checkout [branch name]
