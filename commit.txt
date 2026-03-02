@@ -1,0 +1,4 @@
+Staging notes in four.txt
+For commit to local repository:
+	'git commit -m "Some Changes"'
+Then it may ask for email & name - fill in as explained by terminal.

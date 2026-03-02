@@ -1,0 +1,8 @@
+Do : Mkdir myFolder
+And : cd myFolder
+And : touch four.txt
+
+Also: 'git status', to see the changes made.
+
+Then move to the main folder in directory, and do 'git add -A' to ensure it tracks all files.
+Before we do git add -A, it is not tracking any new files which were not originally pulled from Learning-Git repo on Github.
