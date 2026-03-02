@@ -1,0 +1,4 @@
+Fetch:
+  git fetch
+But this will not yet show in our local directory, so we must:
+  git merge
