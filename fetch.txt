@@ -2,3 +2,6 @@ Fetch:
   git fetch
 But this will not yet show in our local directory, so we must:
   git merge
+
+We can alternatively do both these steps in one using:
+  git pull
